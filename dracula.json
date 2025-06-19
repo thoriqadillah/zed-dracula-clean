@@ -64,9 +64,9 @@
         "icon.disabled": null,
         "icon.muted": null,
         "icon.placeholder": "#6272A4",
-        "ignored": "#8C8C8CF0",
+        "ignored": "#6272A4F0",
         "ignored.background": null,
-        "ignored.border": "#8C8C8CF0",
+        "ignored.border": "#6272A4F0",
         "info": "#75BEFF",
         "info.background": "#4490BF00",
         "info.border": "#75BEFF",
@@ -74,9 +74,8 @@
         "modified": "#FFB86C",
         "modified.background": "#FFB86C50",
         "modified.border": "#FFB86C",
-        "pane.focused_border": null,
         "panel.background": "#20212E",
-        "panel.focused_border": null,
+        "panel.focused_border": "#44475A",
         "players": [
           {
             "background": "#AEAFAD",
