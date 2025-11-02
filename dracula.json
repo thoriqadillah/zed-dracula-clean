@@ -44,7 +44,7 @@
         "element.background": "#44475A",
         "element.disabled": null,
         "element.hover": "#2D3341",
-        "element.selected": "#333B4B",
+        "element.selected": "#44475A",
         "elevated_surface.background": "#1e1f29",
         "error": "#FF5555",
         "error.background": "#B73A3400",
